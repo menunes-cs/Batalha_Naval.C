@@ -1,4 +1,4 @@
-⚓ Batalha Naval - Simulação em C
+⚓ BATALHA_NAVAL
 
 Eu criei esse projeto de Batalha Naval enquanto estudava Ciência da Computação. Queria ver na prática como funcionam os conceitos básicos de programação estruturada e lógica computacional.
 
